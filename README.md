@@ -9,11 +9,11 @@ https://drive.google.com/open?id=1Qgz7eXFTP5Hi7hO1ew7ZWFSkh_vdl57e
 
 
 # 使用cd 到 AlignedReID_train folder  路徑
-'''bash
+```bash
 cd AlignedReID_train
-'''
+```
 
 # 執行 RES.py  訓練
-'''
+```
 python RES.py
-'''
+```
