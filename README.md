@@ -25,6 +25,13 @@ cd AlignedReID_train
 python RES.py
 ```
 
+
+執行 top1.py  驗證
+```
+python top1.py
+```
+
+
 resnet50 
 https://drive.google.com/open?id=14J1Qs8ApuJdhuFvhsf7ejijr86SLFr-p
 
