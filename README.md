@@ -40,3 +40,4 @@ resnet101
 https://drive.google.com/open?id=1KDBsuDA5OeI_hCde5Vt1vBBbxwff5DLg
 
 model rank-1 84%
+https://drive.google.com/open?id=1xnlYwRE5kloefgn1tpqlvjP6vfRJ0-aq
